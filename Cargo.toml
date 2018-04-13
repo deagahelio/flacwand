@@ -1,0 +1,8 @@
+[package]
+name = "flacwand"
+version = "0.1.0"
+authors = ["de aga helio <16138291+deagahelio@users.noreply.github.com>"]
+
+[dependencies]
+metaflac = "0.1.8"
+argparse = "0.2.1"
